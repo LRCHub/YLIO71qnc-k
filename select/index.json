@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "GOLDENWEEK",
+  "base_artist": "MILLENNIUM PARADE",
+  "createdAt": "2026-02-11T22:48:43.053288Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "GOLDENWEEK",
+      "artist": "millennium parade",
+      "has_synced": false,
+      "path": "select/01_GOLDENWEEK_millennium_parade.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GOLDENWEEK",
+      "artist": "MILLENNIUM PARADE",
+      "has_synced": false,
+      "path": "select/pl_01_GOLDENWEEK_MILLENNIUM_PARADE.txt"
+    }
+  ]
+}
